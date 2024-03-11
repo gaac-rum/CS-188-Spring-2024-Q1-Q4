@@ -6,7 +6,7 @@ Project 1<br>
 Manuel Rodriguez Martinez
 
 > [!Warning]<br>
-> For test cases make sure you are in the search directory
+> For Test Cases and Grading make sure you are in the search directory
 
 ## Q1-Q4
 ### Introduction
